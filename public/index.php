@@ -317,7 +317,7 @@ include __DIR__ . '/../includes/header.php';
                 <span class="text-[13px] font-medium text-zinc-700">Events</span>
             </a>
             
-            <a href="/public/telegram.php" class="group flex flex-col items-center p-5 bg-zinc-50 hover:bg-zinc-100 rounded-xl transition-all">
+            <a href="/telegram.php" class="group flex flex-col items-center p-5 bg-zinc-50 hover:bg-zinc-100 rounded-xl transition-all">
                 <div class="w-10 h-10 bg-white text-zinc-700 rounded-lg flex items-center justify-center mb-3 shadow-sm group-hover:shadow transition-shadow">
                     <svg class="w-5 h-5 itshover-telegram" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <path class="telegram-plane" d="M15 10l-4 4l6 6l4 -16l-18 7l4 2l2 6l3 -4"/>
